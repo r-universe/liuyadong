@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GCSM"]
+	path = GCSM
+	url = https://github.com/liuyadong/gcsm
+	shallow = true
+	registered = true
